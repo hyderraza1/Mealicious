@@ -1,0 +1,21 @@
+nav{
+    background-color: #252525;
+    
+}
+body{ 
+    background-color: #252525;
+    font-family: "Baloo tanma 2", cursive;
+}
+.m-heading{
+    font-family: "Roboto slab", serif;
+}
+.main-container{
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url(https://static.toiimg.com/photo/87282159.cms);
+    background-attachment: fixed;
+    background-size: cover;
+}
